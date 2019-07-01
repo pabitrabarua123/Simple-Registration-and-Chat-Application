@@ -10,3 +10,9 @@ Download the repository and change the folder name 'Simple-Registration-and-Chat
 Open the 'mounty' folder and navigate to 'Database' folder. Copy the 'mounty_db.sql' file and import it to your database server by creating a database named mounty_db. If you want to change the database name then you have to change it in the connection.php accordingly.
 
 ![enter image description here](https://lh3.googleusercontent.com/WtQGwvIPTYwh6_as346zEfqkUqJbR4GjTfoSJxruOV5Twq3qALjjDV73NJOY2hXRHm-GWDSSOdrc "conn")
+
+Now open 'localhost/mounty' in your browser and you should see...
+
+![enter image description here](https://lh3.googleusercontent.com/0jyL4m4eZtAwu0yfud-zkrUHP4MhuVWUv2UyhVl10xccVpnrJJtrQv6Fg4YQF90I7nC-uaZWQEHK "login")
+
+Ready, set, go ... register, login and enjoy chating.
